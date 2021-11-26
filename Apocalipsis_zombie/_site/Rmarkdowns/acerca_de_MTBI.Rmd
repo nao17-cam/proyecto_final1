@@ -1,0 +1,102 @@
+---
+title: "Acerca de las MTBI"
+author: "Mitzi Naomi Camargo Arellano"
+
+output: rmdformats::readthedown
+---
+
+# ¿Qué es la prueba MTBI?
+
+El test Myers Briggs Type Indicator o abreviado MBTI, es una herramienta para clasificar diferentes tipos de personalidad. Ayuda a conocer los rasgos psicológicos dominantes de una persona. 
+
+![](https://tse3.mm.bing.net/th?id=OIP.6rKElx8RXF_ORqXjnnyW_QHaEo&pid=Api&P=0&w=287&h=180)
+
+
+# *¿Quién lo propuso?*
+
+A partir de la propuesta de *Carl Gustav Jung* sobre la existencia de tipos psicológicos publicado en un artículo de 1921. *Isabel Briggs Myers* y *Katherine Cook Briggs* durante 40 desarrollarón el test MTBI. 
+
+![](https://os16tipos.com/wp-content/uploads/2021/01/Isabel-Briggs-Myers-e-Katharine-Cook-Briggs.jpg)
+
+# *Bases de test MBTI*
+
+Se basa en la teoría conceptual de *Carl Gustav Jung*. El cual sustenta que los seres humanos sentimos el mundo a partir de *cuatro funciones psicológicas principales*, durante nuestra vida una será predominante. Las teorías de Jung hablarón de *cuatro funciones cognitivas* (pensamiento, sentimiento, sensación e intuición) cada una de ellas orientada hacia la extroversión o introversión. Resultando en ocho funciones dominantes. 
+
+
+# *¿Qué determina el MBTI?*
+
+Mediante el test MTBI se determina la función dominante y auxiliar del individuo. Los cuatro ejes son: 
+
+1. Orientación de la energía (Introversión/Extroversión)(I/E)
+2. Recopilación de información (Sensorial/Intuitivo)(S/N)
+3. Toma de decisiones (Racionalidad/Emoción)(T/F)
+4. Modo de acción (Juicio/Percepción)(J/P)
+
+Lo que da como resultado los 16 tipos de personalidad
+
+![](https://tse2.mm.bing.net/th?id=OIP.g-hFx-wvb5ftMzPzBojd3AHaEh&pid=Api&P=0&w=275&h=168)
+
+# *Los 16 tipos de personalidad*
+
+
+![](https://tse4.mm.bing.net/th?id=OIP.SV9bfoKGfIChQbcIuxKWpQHaJB&pid=Api&P=0&w=300&h=300)
+
+### Los racionales
+Buscan conocimiento:
+
+- Los Ingenieros:
+
+ +El Inventor: ENTP (Extraversión, Intuición, Racionalidad, Percepción)
+ +El Arquitecto: INTP (Introversión, Intuición, Racionalidad, Percepción)
+
+- Los Coordinadores:
+
+ +El Mariscal: ENTJ (Extraversión, Intuición, Racionalidad, Juicio)
+ +El Mente Maestra: INTJ (Introversión, Intuición, Racionalidad, Juicio)
+
+
+### Los idealistas
+Buscan identidad:
+
+- Los Abogados:
+
+ +El Campeón: ENFP (Extraversión, Intuición, Emoción, Percepción)
+ +El Sanador: INFP (Introversión, Intuición, Emoción, Percepción)
+
+- Los Mentores:
+
+ +El Profesor: ENFJ (Extraversión, Intuición, Emoción, Juicio)
+ +El Consejero: INFJ (Introversión, Intuición, Emoción, Juicio)
+
+
+### Los centinelas
+Son los que buscan la seguridad:
+
+- Los Protectores:
+
+ +El Proveedor: ESFJ (Extraversión, Sensorialidad, Emoción, Juicio)
+ +El Protector: ISFJ (Introversión, Sensorialidad, Emoción, Juicio)
+
+- Los Gestores:
+
+ +El Supervisor: ESTJ (Extraversión, Sensorialidad, Racionalidad, Juicio)
+ +El Inspector: ISTJ (Introversión, Sensorialidad, Racionalidad, Juicio)
+
+
+### Los artesanos
+Buscan sensaciones:
+
+-Los Bromistas:
+
+ +El Artista: ESFP (Extraversión, Sensorialidad, Emoción, Percepción)
+ +El Compositor: ISFP (Introversión, Sensorialidad, Emoción, Percepción)
+
+-Los Operadores:
+
+ +El Promotor: ESTP (Extraversión, Sensorialidad, Racionalidad, Percepción)
+ +El Artesano: ISTP (Introversión, Sensorialidad, Racionalidad, Percepción)
+
+
+# *¿Cómo lo usaremos en este programa?*
+
+En este programa lo usaremos para evaluar si según tu MTBI sobrevivirías a un apocalipsis zombie. Integrando bases de datos que contienen el tipo de personalidad de cada personaje de la serie de *"The Walking dead"*.

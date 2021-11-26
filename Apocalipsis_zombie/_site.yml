@@ -1,0 +1,21 @@
+name: "Apocalipsis_zombie"
+title:  "MTBI y The Walking Dead"
+navbar:
+  logo:
+    image: images/logo.png
+    href: https://giphy.com/gifs/adweek-nyc-zombies-walking-dead-GQbNswkIXzlvi
+  right:
+    - text: "Acerca de los zombies"
+      href: C:\Users\naomi\OneDrive\Documentos\Bioinformatica\Apocalipsis_zombie\Rmarkdowns\acerca_de_zombies.html
+    - text: "Acerca de los MTBI"
+      href: C:\Users\naomi\OneDrive\Documentos\Bioinformatica\Apocalipsis_zombie\Rmarkdowns\acerca_de_MTBI.html
+    - text: "Prueba"
+      menu:
+        - text: "Pongamonos a prueba"
+          href: C:\Users\naomi\OneDrive\Documentos\Bioinformatica\Apocalipsis_zombie\Programa\programa2.0.R
+    
+    - icon: fab fa-github
+      href: https://github.com/nao17-cam/proyecto_final1
+output: distill::distill_article
+---
+

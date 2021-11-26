@@ -1,0 +1,10 @@
+---
+title: "MTBI y The Walking Dead"
+description: |
+ :   ¿Sobrevivirías a un apocalipsis zombie?"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

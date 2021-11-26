@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "MTBI y The Walking Dead",
+      "description": ":   ¿Sobrevivirías a un apocalipsis zombie?\"",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-11-26T08:47:15-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Según tu MTBI ¿Sobrevivirías a un apocalipsis zombie?",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-11-26T08:47:16-06:00"
+    }
+  ],
+  "collections": []
+}

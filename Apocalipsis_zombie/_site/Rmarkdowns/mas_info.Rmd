@@ -1,0 +1,32 @@
+---
+title: "Programa"
+author: "Mitzi Naomi Camargo Arellano"
+
+output: rmdformats::readthedown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Correlo
+
+Sí estás interesado en descubrir a que personaje te pareces más, corre las siguientes líneas de codígo.
+
+Establecemos una función que sería "descubrelo" la cuál te imprime la pregunta,
+con sus respectivas respuestas, se establece un score y como resultado te da una suma.
+
+
+```{r cars}
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
